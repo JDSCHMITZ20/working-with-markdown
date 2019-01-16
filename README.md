@@ -66,7 +66,7 @@ It can be a bit challenging to find the correct URL for each image.
 Generally, store your embedded images in your repo if they are original, or reference the hosted location for the image if already available on the web. 
 Images look like links with an ! in front, for example, an external image can be displayed as shown below. If desired, use a title as we did with links above.
 
-![Hosted image](RayDeb Josh Arrowhead.jpg "Arrowhead Freshman Year with Grandparents")
+![Hosted image](https://github.com/JDSCHMITZ20/working-with-markdown/blob/master/RayDeb%20Josh%20Arrowhead.jpg "Arrowhead Freshman Year with Grandparents")
 
 ## Paragraphs
 
