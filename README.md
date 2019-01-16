@@ -85,5 +85,10 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 #### About User
 
+- Josh Schmitz
+- Junior
+- Northwest Missouri State University
+- Computer Science emphasis in Mobile Computing
+
 
 
